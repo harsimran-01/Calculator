@@ -12,3 +12,5 @@ Multiplication: Perform multiplication of two numbers.
 Division: Perform division of two numbers.
 User-friendly Interface: The calculator provides clear instructions to the user for smooth interaction.
 
+"Also, it has the functionality to determine whether we want to continue calculating or not."
+
